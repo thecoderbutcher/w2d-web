@@ -21,7 +21,7 @@ const WhyChooseUs = () => (
                 className={`flex-1 ${styles.flexCenter}`}
             >
                 <Image 
-                    src="/w2d-benefits.svg" 
+                    src="/w2d-benefits.webp" 
                     alt="w2d-benefits" 
                     width={1000}
                     height={100}

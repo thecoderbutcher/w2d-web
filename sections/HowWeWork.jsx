@@ -38,7 +38,7 @@ const HowWeWork = () => (
                 className={` flex-1 ${styles.flexCenter}`}
             >
                 <Image 
-                    src="/w2d-steps.svg" 
+                    src="/w2d-steps.webp" 
                     alt="w2d-steps" 
                     width={1000}
                     height={100}

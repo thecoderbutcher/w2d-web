@@ -15,7 +15,7 @@ const Navbar = () => (
         <div className='absolute w-[50%] inset-0 gradient-01'></div>
         <div className={`${styles.innerWidth} mx-auto flex justify-between gap-8 items-center`}>
             <Image 
-                src="/w2d-logo.svg" 
+                src="/w2d-logo.png" 
                 alt="w2d-logo" 
                 width={100}
                 height={100}

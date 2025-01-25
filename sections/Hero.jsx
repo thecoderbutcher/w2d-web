@@ -50,7 +50,7 @@ const Hero = () => (
                     href="#works"
                     className='w-full flex justify-end sm:-mt-[70px] -mt-[50px] pr-[40px] relative z-10'>
                     <Image 
-                        src="/hero-circle.svg" 
+                        src="/hero-circle.webp" 
                         alt="hero-circle" 
                         width={1000}
                         height={100}

@@ -19,7 +19,7 @@ const Footer = () => (
                 </h4>
                 <button type='button' className='flex items-center h-fit py-4 px-6 bg-[#25618b]/50 rounded-[32px] gap-[12px]'>
                     <Image 
-                        src="/w2d-bot.svg" 
+                        src="/w2d-bot.webp" 
                         alt="w2d bot"
                         width={28}
                         height={28}

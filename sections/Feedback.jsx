@@ -53,7 +53,7 @@ const Feedback = () => (
                 className='relative flex-1 flex justify-center items-center'
             >
                 <Image
-                    src='/w2d-feedback.svg'
+                    src='/w2d-feedback.webp'
                     alt='feedback bg'
                     width={1000}
                     height={100}
@@ -64,7 +64,7 @@ const Feedback = () => (
                     className='lg:block hidden absolute -left-[10%] top-[3%]'
                 >
                     <Image 
-                        src="/w2d-feedback-stamp.svg" 
+                        src="/w2d-feedback-stamp.webp" 
                         alt="feedback-stamp" 
                         width={155}
                         height={155}

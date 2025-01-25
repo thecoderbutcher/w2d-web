@@ -27,7 +27,7 @@ const ProjectCard = ({imgUrl, title, subtitle, index}) => (
             </div>
             <div className='lg:flex hidden items-center justify-center w-[100px] h-[100px] rounded-full bg-transparent border-[1px] border-white cursor-pointer'>
                 <Image 
-                    src="arrow.svg" 
+                    src="/arrow.svg" 
                     alt="arrow"
                     width={100}
                     height={100}

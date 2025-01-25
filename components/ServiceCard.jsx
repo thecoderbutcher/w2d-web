@@ -30,7 +30,7 @@ const ServiceCard = ({id, imgUrl, title, index, active, handleClick}) => (
                 <div className='absolute bottom-0 p-8 justify-start w-full flex-col bg-black/60 rounded-b-[24px]' >
                     <div className={`${styles.flexCenter} w-[60px] h-[60px] rounded-[20px] glassmorphism mb-[12px]`}>
                         <Image 
-                            src="/w2d-bot.svg" 
+                            src="/w2d-bot.webp" 
                             alt="bot"
                             width={1000}
                             height={100}

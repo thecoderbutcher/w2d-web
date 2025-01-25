@@ -3,9 +3,7 @@
 import { motion } from 'framer-motion';
 import { TypingText } from '@/components';
 import styles from '../styles/index';
-import { fadeIn, staggerContainer} from '@/utils/motion';
-import Link from 'next/link'; 
-
+import { fadeIn, staggerContainer} from '@/utils/motion'; 
 const About = () => (
     <section className={`${styles.paddings} relative z-10`}>
         <div className='gradient-02 z-0'/>
@@ -29,7 +27,7 @@ const About = () => (
             </motion.p>
             <motion.img
                 variants={fadeIn('up', 'tween', 0.3, 1)}
-                src='/arrow-down.svg'
+                src='./arrow-down.svg'
                 alt='arrow down'
                 className='w-[18px] h-[28px] object-contain mt-[28px]'
             >
